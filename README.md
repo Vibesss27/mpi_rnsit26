@@ -2,7 +2,7 @@
 
 # Medicinal Plant Identification using AI/ML
 
-This project uses AI/ML to identify medicinal plants based on leaf images. Currently, it supports identification of plants like Neem, Tulsi, and Mint.
+This project uses AI/ML to identify medicinal plants based on leaf images. Currently, it supports identification of plants like Neem, Tulsi, Mint, Aloevera and Turmeric.
 
 ## Technologies Used
 - Python
